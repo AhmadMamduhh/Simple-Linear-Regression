@@ -1,2 +1,2 @@
 # Machine-Learning
-It contains implementations of various ML algorithms
+It contains my implementations of various ML algorithms
